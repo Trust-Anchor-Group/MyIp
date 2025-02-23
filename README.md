@@ -7,6 +7,8 @@ displaying this information, together with an Open Street Map showing the locati
 address, as well as a REST API web service providing this information using the Content-Type 
 requested by the caller.
 
+You can try the web page directly on the lab neuron, by clicking [here](https://lab.tagroot.io/MyIp.md).
+
 Installable Package
 ----------------------
 
