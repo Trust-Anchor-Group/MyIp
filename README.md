@@ -15,8 +15,8 @@ your Neuron(R).
 
 | Package information                                                                                                              ||
 |:-----------------|:---------------------------------------------------------------------------------------------------------------|
-| Package          | `TAG.MyIp.package`                                                                                |
-| Installation key | `TBD` |
+| Package          | `TAG.MyIp.package`                                                                                             |
+| Installation key | `6JhQ0GmZDvU2WOurrWl7OQnZi4wGVz4TVBM2weW3+CBYMpiFZoMSlNyuELpERcAx+xfo7Lcy3gyA74b47c1e8ff549ed7b1e5df9453592a2` |
 
 
 Project Files
